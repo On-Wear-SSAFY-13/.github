@@ -32,8 +32,6 @@
 
 ### <a href="#directories">📂 디렉터리 구조</a>
 
-### <a href="#jiraIssues">📋 Jira 이슈 목록</a>
-
 ### <a href="#projectDeliverables">📦 프로젝트 산출물</a>
 
 </div>
